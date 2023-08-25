@@ -9,5 +9,7 @@ public class Git {
         System.out.println("hot-fix2");
         System.out.println("master1");
         System.out.println("master2");
+        System.out.println("master commit");
+        System.out.println("hot-fix commit");
     }
 }
