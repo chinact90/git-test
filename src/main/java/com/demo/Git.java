@@ -11,5 +11,6 @@ public class Git {
         System.out.println("master2");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
+         System.out.println("hot-fix commit");
     }
 }
