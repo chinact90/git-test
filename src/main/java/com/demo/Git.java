@@ -14,5 +14,6 @@ public class Git {
          System.out.println("hot-fix commit");
 
         System.out.println("hot-fix commi233434t");
+        System.out.println("hot-fix commi233434t");
     }
 }
